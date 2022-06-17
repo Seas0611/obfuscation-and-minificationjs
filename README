@@ -1,0 +1,1 @@
+javascript-obfuscator fibonacci.js --log true --compact true --rotate-string-array true --rename-properties true --split-strings true --string-array true --string-array-encoding "rc4" --disable-console-output true --debug-protection true --output fibonacci.of.js
